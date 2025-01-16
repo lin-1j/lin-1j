@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Jack and I'm a CS Student from Australia</h2>
+<h2 align="center">Hi👋! I'm Jack and I'm a CS Student</h2>
 
 ###
 
